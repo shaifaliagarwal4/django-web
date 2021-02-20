@@ -26,7 +26,7 @@ SECRET_KEY = '^c98e@xosw2z)ayxp50o_^#$joh())1=799912u8r#&13+m5r2'
 DEBUG = True
 
 ALLOWED_HOSTS = []
-
+ALLOWED_HOSTS = ['shailywebsite.herokuapp.com']
 
 # Application definition
 
